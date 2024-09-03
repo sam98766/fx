@@ -11,6 +11,7 @@
 172.67.7.181#US
 104.19.148.8#US
 104.20.17.3#US
+45.60.45.167#US
 www.baipiao.eu.org
 cdn.didi8.com
 cf.0sm.com
