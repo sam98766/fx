@@ -7,6 +7,10 @@
 141.101.120.167#US
 172.64.163.90#US
 58.176.95.46#HK
+172.67.1.1#US
+172.67.7.181#US
+104.19.148.8#US
+104.20.17.3#US
 www.baipiao.eu.org
 cdn.didi8.com
 cf.0sm.com
@@ -15,3 +19,10 @@ icook.hk
 ip.sb
 time.is
 www.csgo.com
+cf-saas.asia
+japan.com
+russia.com
+skk.moe
+www.iios.club
+iios.club
+www.iios.me
