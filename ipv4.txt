@@ -4,13 +4,8 @@
 104.19.68.70#US
 104.27.57.0#US
 141.101.120.167#US
-172.64.163.90#US
-58.176.95.46#HK
-172.67.1.1#US
-172.67.7.181#US
 104.19.148.8#US
 104.20.17.3#US
-45.60.45.167#US
 www.baipiao.eu.org
 cdn.didi8.com
 cf.0sm.com
@@ -23,4 +18,3 @@ japan.com
 russia.com
 skk.moe
 iios.club
-www.iios.me
